@@ -3,8 +3,6 @@
 
 # Decentralised Land Records Storage System
 
-> A blockchain-powered web application for secure, tamper-proof land transaction management — built using Python and Flask.
-
 ---
 
 ##  Team — Group 6 (BITS Pilani, Hyderabad Campus | CSF 407 Cryptography)
